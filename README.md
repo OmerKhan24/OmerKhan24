@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-As an undergraduate from FAST UNIVERSITY in Computer Science, I have a strong foundation in C++, as well as practical experience with HTML, CSS, and JavaScript. Additionally, I also have a year of experience in managing Facebook and Instagram ads, whilst managing and building Shopify stores. My diverse skill set includes both technical and digital marketing expertise, making me a well-rounded professional with a passion for technology and innovation.
+As an undergraduate from **FAST UNIVERSITY** in **Computer Science**, I have a strong foundation in **C++**, as well as practical experience with **HTML**, **CSS**, and **JavaScript**. Additionally, I also have a year of experience in **digital marketing** with managing **Facebook and Instagram ads**, whilst managing and building **Shopify** stores. My diverse skill set includes both technical and digital marketing expertise, making me a well-rounded professional with a passion for technology and innovation.
 
 *   🌍  I'm based in Karachi, Pakistan
 *   🖥️  See my portfolio at [MyPortfolio](http://omerkhan24.github.io/Portfolio/)
