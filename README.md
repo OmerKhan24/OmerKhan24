@@ -9,7 +9,7 @@ As an undergraduate from **FAST UNIVERSITY** in **Computer Science**, I have a s
 *   🌍  I'm based in Karachi, Pakistan
 *   🖥️  See my portfolio at [MyPortfolio](http://omerkhan24.github.io/Portfolio/)
 *   ✉️  You can contact me at [omerkhan2406@gmail.com](mailto:omerkhan2406@gmail.com)
-*   🧠  I'm learning Python, Machine Learning, JS
+*   🧠  I'm learning Python, JS, Database, Operating system
 *   ⚡  Powered by a 4.4litre Twin Turbo V8.
   ### Skills 
 <p align="left">
