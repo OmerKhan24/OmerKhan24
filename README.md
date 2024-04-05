@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Omer Khan</h1>
 <h3 align="center">Tech Enthusiast and CS Student | Passionate about Innovations and Technology</h3>
-============================================================================================<br>
+========================================================================================<br>
 
 *   🌍  I'm based in Karachi, Pakistan
 *   🖥️  See my portfolio at [MyPortfolio](http://omerkhan24.github.io/Portfolio/)
