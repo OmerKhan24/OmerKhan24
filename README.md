@@ -5,7 +5,7 @@
 *   🌍  I'm based in Karachi, Pakistan
 *   🖥️  See my portfolio at [MyPortfolio](http://omerkhan24.github.io/Portfolio/)
 *   ✉️  You can contact me at [omerkhan2406@gmail.com](mailto:omerkhan2406@gmail.com)
-*   🧠  I'm learning Python, JS, Database, Operating system
+*   🧠  I'm learning Python, Machine Learning, Database, Computer Networks
 *   🔭 I’m currently working on [neural networks and machine learning project.](https://github.com/OmerKhan24/MNIST-Neural-Network)
 *   ⚡  Powered by a 4.4litre Twin Turbo V8.
 <h3 align="left">Languages and Tools:</h3>
