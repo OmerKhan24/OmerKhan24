@@ -3,7 +3,7 @@
 ========================================================================================<br>
 
 *   🌍  I'm based in Karachi, Pakistan
-*   🖥️  See my portfolio at [MyPortfolio](https://portfoliomain-beta-topaz.vercel.app/)
+*   🖥️  See my portfolio at [MyPortfolio](https://omerkhan.space/)
 *   ✉️  You can contact me at [omerkhan2406@gmail.com](mailto:omerkhan2406@gmail.com)
 *   🧠  I'm learning Python, Machine Learning, Database, Computer Networks
 *   🔭 I’m currently working on [neural networks and machine learning project.](https://github.com/OmerKhan24/MNIST-Neural-Network)
